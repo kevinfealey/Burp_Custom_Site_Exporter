@@ -5,6 +5,7 @@ This is a Burp Extension for outputting sitemaps in custom formats. The initial 
 
 ##Usage
 To use this extension:
+
 1. Download the extension Jar file from the project bin directory 
 2. Open Burp
 3. Open the "Extender" tab
